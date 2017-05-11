@@ -106,7 +106,7 @@ Pod::Spec.new do |s|
   #
 
   # s.resource  = "icon.png"
-  # s.resources = "Resources/*.png"
+   s.resources = "AlertViewManager/CDDAlert.bundle/*.png"
 
   # s.preserve_paths = "FilesToSave", "MoreFilesToSave"
 
