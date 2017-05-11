@@ -105,7 +105,7 @@ Pod::Spec.new do |s|
   #  non-essential files like tests, examples and documentation.
   #
 
-  # s.resource  = "AlertViewManager/CDDAlert.bundle"
+   s.resource  = "AlertViewManager/CDDAlert.bundle"
   # s.resources = "AlertViewManager/CDDAlert.bundle/*.png"
 
   # s.preserve_paths = "FilesToSave", "MoreFilesToSave"
